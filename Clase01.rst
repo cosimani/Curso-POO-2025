@@ -24,7 +24,11 @@ Metodología didáctica
 	- La materia se promociona bajo la modalidad de la UBP.
 	- El examen final sigue `esta modalidad <https://github.com/cosimani/Curso-POO-2025/blob/main/Desafios.rst>`_ .
 
+:Meet y WhatsApp para comunicaciones: 
+	- `https://meet.google.com/vyf-bsai-uvq <https://meet.google.com/vyf-bsai-uvq>`_
+	- `https://chat.whatsapp.com/IDRbj8NFaut77I95Ov9Obb <https://chat.whatsapp.com/IDRbj8NFaut77I95Ov9Obb>`_
 
+	
 Registro en video de algunos temas de la clase de hoy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 

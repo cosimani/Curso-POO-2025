@@ -32,18 +32,18 @@ Para profundizar
 ^^^^^^^^^^^^^^^^
 
 :Manejo de Autenticación y Seguridad en APIs:
-	- Implementación de OAuth2 con FastAPI y generación de tokens JWT.
-	- Seguridad en almacenamiento de contraseñas: uso de hashing con bcrypt.
-	- Configuración de permisos y roles en la API.
-	- Conexión y Manejo de Base de Datos en Qt con MySQL
+		- Implementación de OAuth2 con FastAPI y generación de tokens JWT.
+		- Seguridad en almacenamiento de contraseñas: uso de hashing con bcrypt.
+		- Configuración de permisos y roles en la API.
+		- Conexión y Manejo de Base de Datos en Qt con MySQL
 
 :Creación de un Dockerfile para FastAPI y MySQL:
-	- Configuración de docker-compose para el despliegue del entorno.
-	- Persistencia de datos en contenedores: volúmenes en Docker.
-	- Despliegue en AWS o similar y configuración del servidor
+		- Configuración de docker-compose para el despliegue del entorno.
+		- Persistencia de datos en contenedores: volúmenes en Docker.
+		- Despliegue en AWS o similar y configuración del servidor
 
 :Consumo de APIs en Qt:
-	- Uso de QNetworkAccessManager para realizar peticiones HTTP.
-	- Manejo de respuestas JSON en Qt y parseo con QJsonDocument.
-	- Implementación de manejo de errores y reintentos en solicitudes a la API.
+		- Uso de QNetworkAccessManager para realizar peticiones HTTP.
+		- Manejo de respuestas JSON en Qt y parseo con QJsonDocument.
+		- Implementación de manejo de errores y reintentos en solicitudes a la API.
 

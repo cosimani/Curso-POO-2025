@@ -189,10 +189,13 @@ Primer aplicación en Qt con interfaz gráfica
 	- Aplicaciones escritas con C++ (Qt)
 		- KDE
 		- VLC Media Player
-		- Skype
+		- OBS Studio
 		- VirtualBox
 		- Google Earth 
-		- Spotify para Linux
+		- Wireshark
+		- Blender 
+		- Cura
+		- MATLAB 
 	- En 2012, Digia compra Qt y comercializa las licencias 
 	- Digia desarrolló herramientas para usar Qt en iOS y Android.
 	- En 2014, Digia separó Qt en un empresa independiente llamada The Qt Company.

@@ -4,7 +4,7 @@
 
 Clase 06 - POO 2025
 ===================
-(Fecha: 21 de abril)
+(Fecha: 21 de marzo)
 
 
 

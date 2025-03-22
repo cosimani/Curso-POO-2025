@@ -12,9 +12,14 @@ Clase 06 - POO 2025
 Registro en video de algunos temas de la clase de hoy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+
+`Fución genérica - signals y slots - empty project 2025 <https://youtu.be/wnkHlGuUZZQ>`_ 
+
 `Función genérica 2021 <https://www.youtube.com/watch?v=PkmAW31KuV0>`_ 
 
 `Help signal slot QSlider QSpinBox 2021 <https://www.youtube.com/watch?v=BHog8TPjnos>`_
+
+
 
 
 

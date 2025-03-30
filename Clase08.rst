@@ -11,6 +11,10 @@ Clase 08 - POO 2025
 Registro en video de algunos temas de la clase de hoy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+`Introducción al módulo network de Qt 2025 <https://www.youtube.com/watch?v=QS43ULD80fU>`_
+
+`Primer aplicación con network 2025 <https://youtu.be/yQKcYThLkmo>`_
+
 `webservice network QIODevice QUrl 2021 <https://youtu.be/gX-DEWwXvh4>`_
 
 `QNetworkAccessManager imagen de internet 2021 <https://youtu.be/JtENM7t2zxE>`_
@@ -206,10 +210,8 @@ Ejercicio 9:
 - Preparar un canal propio de Youtube, para publicar videos en modo No listado (u oculto)
 - Preparar una herramienta para grabar los videos, con audio y pantalla compartida.
 - De ahora en más, varios ejercicios serán para replicar ejemplos que se realizaron en clase.
-- Replicar el login de usuario realizado en la clase de hoy.
+- Replicar el ejemplo realizado en la clase de hoy y hacerlo funcionar para que la imagen se descargue.
+- El video del estudiante deberá quedar en su canal de Youtube con No listado.
+- El video es `Primer aplicación con network 2025 <https://youtu.be/yQKcYThLkmo>`_
 
-Ejercicio 10:
-=============
-
-- Replicar la descargarga de una imagen de internet para dibujarla sobre un QWidget.
 

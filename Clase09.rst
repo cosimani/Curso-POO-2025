@@ -163,14 +163,20 @@ Instalación de Biblioteca Qt, QtCretor y MinGW
 .. figure:: imagenes/cuenta_en_qt.jpg
    :width: 300px
 
+- Realizar una instalación personalizada
 
 .. figure:: imagenes/custom_qt.jpg
+    :width: 500px
 
-
+- Recordar que es una cuenta individual personal.
 
 .. figure:: imagenes/qt_individual.jpg
+    :width: 500px
+
+- Instalar únicamente Qt 6.5.3, MinGW 11.2.0 64 bits y QtCreator 16.0.0
 
 
 .. figure:: imagenes/solo_instalar_esto.jpg
+    :width: 500px
 
 

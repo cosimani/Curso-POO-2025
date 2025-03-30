@@ -161,6 +161,7 @@ Instalación de Biblioteca Qt, QtCretor y MinGW
 - Comenzar a instalar y crear una nueva cuenta individual.
 
 .. figure:: imagenes/cuenta_en_qt.jpg
+   :width: 300px
 
 
 .. figure:: imagenes/custom_qt.jpg

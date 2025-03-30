@@ -133,7 +133,7 @@ Ejercicio 7:
 .. figure:: imagenes/ejercicio_captcha.jpg
 
 
-Ejercicio 8:
+Ejercicio 8 (continuará ...):
 ============
 
 - Tener disponible un endpoint con FastAPI para validar usuarios.

@@ -146,7 +146,7 @@ Ejercicio 10:
 
 - Replicar el ejemplo del login visto en la clase de hoy
 - Grabar un video explicando el desarrollo de esta aplicación
-- Subirla a Youtube con no listado
+- Subirla a Youtube como No listado
 
 
 

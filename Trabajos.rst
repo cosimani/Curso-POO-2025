@@ -12,7 +12,8 @@ Está centrado en **C++ con Qt y Programación Orientada a Objetos**, y se combi
 TP1 - Analizador Inteligente de Imágenes
 ----------------------------------------
 
-**Nombre sugerido:** VisiónAI  
+**Nombre sugerido:** VisiónAI
+
 **Cantidad de estudiantes:** 4  
 
 **Descripción general:**  

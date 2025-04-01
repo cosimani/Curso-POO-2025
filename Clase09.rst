@@ -11,6 +11,14 @@ Clase 09 - POO 2025
 Registro en video de algunos temas de la clase de hoy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+`Array como parámetro QTextEdit Preprocesador Guardián 2025 <https://youtu.be/RThbIuZvrJQ>`_
+
+`Login en empty project 2025 <https://youtu.be/Gdo6NcdOuPo>`_
+
+`Login con QtDesigner 2025 <https://youtu.be/9Z208vj-jCw>`_
+
+`Trabajo integrador prompt con OpenAI 2025 <https://youtu.be/HssG_ACtoS4>`_
+
 `Sutileza con punteros - octal - arrays como parámetros 2021 <https://www.youtube.com/watch?v=XQOBvBVkffM>`_
 
 `QNetworkAccessManager y colocar imagen en login 2023 <https://youtu.be/PFSWwS-RHyI>`_
@@ -144,9 +152,19 @@ Guardián de inclusión múltiple
 Ejercicio 10:
 ============
 
-- Replicar el ejemplo del login visto en la clase de hoy
+- Replicar el ejemplo del login en un empty project
 - Grabar un video explicando el desarrollo de esta aplicación
 - Subirla a Youtube como No listado
+- El video referencia es: `Login en empty project 2025 <https://youtu.be/Gdo6NcdOuPo>`_
+
+
+Ejercicio 11:
+============
+
+- Replicar el ejemplo del login en QtDesigner
+- Grabar un video explicando el desarrollo de esta aplicación
+- Subirla a Youtube como No listado
+- El video referencia es: `Login con QtDesigner 2025 <https://youtu.be/9Z208vj-jCw>`_
 
 
 

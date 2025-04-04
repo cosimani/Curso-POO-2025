@@ -11,6 +11,8 @@ Registro en video de algunos temas de la clase de hoy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
+`Derivadas - Constructor explícito 2025 <https://youtu.be/IvmOdSqs0dU>`_
+
 `Derivadas - Constructor explícito 2021 <https://www.youtube.com/watch?v=O2mCsBB_gro>`_
 
 `Clases derivadas, constructor, destructor, constructor explícito 2023 <https://youtu.be/wZ8qYYaAbzA>`_

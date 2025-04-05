@@ -200,7 +200,7 @@ Criterios de evaluación – Trabajos Prácticos (TP)
 Grupos de estudiantes por TP
 ============================
 
-**TP1 - VisiónAI**
+**TP1**
 - Brasca, Borsotti, Delgado, Merino
 
 **TP2**

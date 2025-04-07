@@ -213,10 +213,10 @@ Grupos de estudiantes por TP
 - Sapa Matias, Frache Valentino
 
 **TP5**
-- Brizuela Bautista, Aghem Agustín
+- Iván Acevedo, Sofía Coniglio, Tristan Nores, Gregorio Olmedo
 
 **TP6**
-- Iván Acevedo, Sofía Coniglio, Tristan Nores, Gregorio Olmedo
+- Brizuela Bautista, Aghem Agustín
 
 **TP7**
 - Santiago Juri Nam, Luciano Lucas

@@ -4,7 +4,7 @@
 
 Clase 15 - POO 2025
 ===================
-(Fecha: 16 de mayo)
+(Fecha: 16 de abril)
 
 
 Registro en video de algunos temas de la clase de hoy

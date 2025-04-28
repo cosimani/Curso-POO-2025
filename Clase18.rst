@@ -11,6 +11,9 @@ Registro en video de algunos temas de la clase de hoy
 =====================================================
 
 
+`QTimer y T-Rex 2025 <https://youtu.be/mhzVq6ygz8g>`_ 
+
+
 `QTimer - https://youtu.be/3flYMoF0mNU <https://youtu.be/3flYMoF0mNU>`_ 
 
 `logs y QTimer 2021 <https://youtu.be/Rh_NYJ42-Zw>`_ 
@@ -57,8 +60,8 @@ Ejercicio 18: "T-Rex Extremo"
 - Inspirado en el clásico juego del T-Rex de Google Chrome.
 - El jugador controla un dinosaurio que debe esquivar cactus y pájaros.
 - Cada pájaro tiene su **propio `QTimer` independiente**.
-- Crear una clase `TRex` que herede de `QWidget`.
-- Crear una clase `Pajaro` que herede de `QWidget`:
+- Crear una clase `TRex` que herede de `QWidget` o `QImage`.
+- Crear una clase `Pajaro` que herede de `QWidget` o `QImage`:
   
   - Cada instancia de `Pajaro` tiene su propio `QTimer`.
   - El `QTimer` de cada pájaro mueve su posición horizontal a la izquierda.

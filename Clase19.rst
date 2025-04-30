@@ -149,7 +149,7 @@ Ejercicio 19:
 
 
 Simulacro de Parcial - Gestión de medicamentos por Obra Social
----------------------------------------------------------------
+^^^^^^^^^^
 
 Desarrollar una aplicación de escritorio con C++ y Qt que permita gestionar las cajas de medicamentos entregadas a una *única obra social* (por ejemplo: **"APROSS"**), respetando un límite máximo de **1000 dosis en total**.
 
@@ -171,16 +171,20 @@ Requisitos
     - `bool operator==(const CajaMedicamento & otra) const` → compara si tienen misma cantidad de dosis
     - `QString toString() const` → retorna una cadena del estilo:
       
-      .. code-block:: cpp
+.. code-block:: cpp
 
-         CajaMedicamento [ID: 4, Dosis: 250.0]
+	CajaMedicamento [ID: 4, Dosis: 250.0]
 
 - Clase `AdminDB` (singleton):
   
   - Métodos requeridos:
+
     - `void conectar();`
+
     - `bool insertarCaja(float dosis);` → solo si la suma total no excede 1000
+
     - `QList<CajaMedicamento> obtenerTodas();`
+
     - `float obtenerTotalDosis();`
 
 - Base de datos SQLite:

@@ -185,7 +185,7 @@ Requisitos
 
 	
 
-- Clase `AdminDB` (singleton):
+- Clase `AdminDBMedicamentos` (singleton):
   
   - Métodos requeridos:
 

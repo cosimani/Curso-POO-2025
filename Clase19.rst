@@ -10,6 +10,8 @@ Clase 19 - POO 2025
 Registro en video de algunos temas de la clase de hoy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+`Sobrecarga de operadores, singleton y AdminDBMedicamentos - 2025 <https://youtu.be/8l5L7JraHXU>`_
+
 `Sobrecarga de operadores 2021 <https://youtu.be/QGTNAjeRdNg>`_
 
 `Singleton 2021 <https://youtu.be/RNAZ0pu-Ybc>`_
@@ -183,7 +185,7 @@ Requisitos
 
 	CajaMedicamento [ID: 4, Dosis: 250.0]
 
-	
+
 
 - Clase `AdminDBMedicamentos` (singleton):
   

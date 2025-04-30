@@ -161,19 +161,29 @@ Requisitos
 - Clase `CajaMedicamento`:
   
   - Atributos:
+
     - `int id` → autogenerado por la base de datos
+
     - `float dosisTotales`
   
   - Métodos:
+
     - Constructor para crear una nueva caja (sin ID)
+
     - Constructor para cargar una caja desde la base (`id`, `dosis`)
+
     - `CajaMedicamento operator+(const CajaMedicamento & otra) const` → suma de dosis
+
     - `bool operator==(const CajaMedicamento & otra) const` → compara si tienen misma cantidad de dosis
+
     - `QString toString() const` → retorna una cadena del estilo:
+
       
 .. code-block:: cpp
 
 	CajaMedicamento [ID: 4, Dosis: 250.0]
+
+	
 
 - Clase `AdminDB` (singleton):
   

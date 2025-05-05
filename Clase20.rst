@@ -13,6 +13,9 @@ Clase 20 - POO 2025
 Registro en video de algunos temas de la clase de hoy
 =====================================================
 
+
+`Herencia múltiple QFile QFileDialog 2025 <https://youtu.be/RRo6jH1wCMs>`_ 
+
 `Herencia múltiple 2022 <https://youtu.be/67hIhqDpaGo>`_ 
 
 `Herencia múltiple 2021 <https://youtu.be/N-oMfFPVrLs>`_ 
@@ -119,7 +122,7 @@ Clase QFile
 .. code-block:: c	
 
 	QFile( const QString & name )
-	viod setFile( const QString & name )
+	void setFile( const QString & name )
 
 - Existe un archivo? y lo eliminamos.
 

@@ -11,6 +11,8 @@ Clase 21 - POO 2025
 Registro en video de algunos temas de la clase de hoy
 =====================================================
 
+`const 2025 <https://youtu.be/-z9BhQSPHJg>`_ 
+
 `const 2021 <https://youtu.be/UqXE4GeFd_s>`_ 
 
 
@@ -44,6 +46,9 @@ const con punteros
 	const int * py = &y;  // permitido (pero el contenido es de sólo lectura)
 
 	*py = 6;  // No permitido. El contenido apuntado es de sólo lectura
+
+	int z = 10;
+    const int * const pz = &z;  // Analizar
 
 
 const en parámetros de funciones

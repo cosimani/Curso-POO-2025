@@ -68,6 +68,8 @@ Instrucciones básicas
     docker compose up --build -d
 
 4. Acceder a:
+
 - `http://localhost:8000/docs` para ver la API
+
 - `http://localhost:8080` para gestionar la base con phpMyAdmin
 

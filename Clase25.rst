@@ -33,10 +33,10 @@ Requisitos:
 
    - Dos `QLineEdit` para ingresar el usuario y clave.
    - Un botón `Iniciar sesión`.
-   - Una clase `Image` en la cual se deberá dibujar una imágen (un avatar) con paintEvent.
+   - Una clase `Imagen` en la cual se deberá dibujar una imágen (un avatar) con paintEvent.
    - Esta imagen deberá aparecer cuando el usuario completa su nombre de usuario y sale del QLineEdit de campo usuario.
    - Usar `QGridLayout` para confeccionar el Login.
-   - El objeto de la clase Imagen deberá eetá promocionada dentro del layout.
+   - El objeto de la clase Imagen deberá está promocionada dentro del layout.
 
 2. El avatar será una imagen obtenida desde el sitio: https://robohash.org
 

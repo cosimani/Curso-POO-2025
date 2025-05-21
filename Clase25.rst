@@ -30,6 +30,7 @@ Ejercicio 1 – Login con Avatar desde internet
 Requisitos:
 
 1. Una clase Login (en los archivos login.h, login.cpp y login.ui) con:
+
    - Dos `QLineEdit` para ingresar el usuario y clave.
    - Un botón `Iniciar sesión`.
    - Una clase `Image` en la cual se deberá dibujar una imágen (un avatar) con paintEvent.
@@ -58,15 +59,18 @@ Ejercicio 2 – Galería de imágenes local con etiquetas
 Requisitos:
 
 1. Diseñar una clase abstracta `ImagenConEtiqueta` con:
+
    - Ruta de la imagen.
    - Etiqueta textual.
    - Método virtual puro `mostrar()`.
 
 2. Implementar dos clases derivadas:
+
    - `ImagenNormal`: muestra la imagen normalmente.
    - `ImagenConMarco`: dibuja la imagen con un marco usando `paintEvent()`.
 
 3. Interfaz gráfica:
+
    - Una grilla de 3x3 para mostrar 9 imágenes.
    - Botón en cada celda de la grilla para agregar imagen.
    - Campo `QLineEdit` para ingresar etiqueta.

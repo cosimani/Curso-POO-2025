@@ -16,6 +16,7 @@ Repositorio base
 📦 https://github.com/cosimani/poo-api-db
 
 El entorno incluye:
+
 - Base de datos MySQL 8.0 accesible en el puerto 3306
 - Interfaz phpMyAdmin en el puerto 8080
 - API FastAPI en el puerto 8000

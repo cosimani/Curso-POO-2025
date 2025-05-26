@@ -20,9 +20,10 @@ Metodología didáctica
 	- La segunda parte de cada clase estará destinado a la resolución de ejercicios e incorporación de esos contenidos.
 
 :Regularidad, promoción y examen final: 
-	- Primer y segundo parcial: Problema para resolver en 2 horas
+	- Primer parcial: Ejercicios a resolver durante el horario de clase
+	- Segundo parcial: Trabajo Práctico Integrador
 	- La materia se promociona bajo la modalidad de la UBP.
-	- El examen final sigue `esta modalidad <https://github.com/cosimani/Curso-POO-2025/blob/main/Desafios.rst>`_ .
+	- Para coloquio y examen final sigue `esta modalidad <https://github.com/cosimani/Curso-POO-2025/blob/main/Desafios.rst>`_ .
 
 :Meet y WhatsApp para comunicaciones: 
 	- `https://meet.google.com/vyf-bsai-uvq <https://meet.google.com/vyf-bsai-uvq>`_

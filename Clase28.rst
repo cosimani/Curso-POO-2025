@@ -27,12 +27,14 @@ Objetivo: Implementar una aplicación que muestre la hora actual en diferentes z
 Requisitos:
 
 - Una clase `RelojZona` (archivos `relojzona.h`, `relozjona.cpp`, `relozjona.ui`) que contenga:
+
   - Un QLabel para mostrar la hora.
   - Un QLabel para mostrar el nombre de la ciudad.
   - Un método `actualizarHora(QString zona)` que obtenga la hora actual de una API pública de tiempo como http://worldtimeapi.org/api/timezone.
   - Un temporizador que actualice la hora cada 30 segundos.
 
 - La interfaz principal debe tener un QGridLayout con al menos 3 relojes de zonas distintas:
+
   - Buenos Aires
   - New York
   - Madrid
@@ -48,15 +50,18 @@ Objetivo: Implementar una aplicación que permita agregar y visualizar distintas
 Requisitos:
 
 - Crear una clase abstracta `FiguraGeometrica` con:
+
   - Posición (`x`, `y`).
   - Color.
   - Método virtual puro `dibujar(QPainter&)`.
 
 - Implementar al menos dos clases derivadas:
+
   - `Circulo`: dibuja un círculo con `QPainter`.
   - `Rectangulo`: dibuja un rectángulo con `QPainter`.
 
 - La aplicación debe permitir:
+
   - Elegir el tipo de figura a agregar mediante un `QComboBox` (Círculo o Rectángulo).
   - Elegir el color de la figura en RGB.
   - Un botón “Agregar figura” que la coloca en una posición aleatoria del tablero.
